@@ -19,7 +19,7 @@
 
 ## Обновление локального репозитория из главного
 
-Настроить upstream<br/>
+Настроить upstream<br/> (поменять ссылку)
 `C:\projects\python-for-beginners>git remote add upstream https://gitlab.sirius-web.org/courses/python-for-beginners.git`
 
 Для обновления<br/>
